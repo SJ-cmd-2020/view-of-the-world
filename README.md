@@ -24,3 +24,5 @@ Hello, let's get started!
  1. Again, run `git remote -v` and you see both the origin and upstream.
 
 Update 1: Let's see if this appears in github.com
+
+Update 2: Pushing this update to 'mischief' branch and then let's see if this appears in the 'master' branch
