@@ -23,8 +23,8 @@ Hello, let's get started!
     ```
  1. Again, run `git remote -v` and you see both the origin and upstream.
 
-Making update 1. Let's see if this shows up on github.com - Can see it.
+Update 1: Let's see if this appears in github.com
 
-Update number 2: Does this Fedora 31 box hang when you are working on it? - Yay! Not Yet (update 3)
+Update 2: Pushing this update to 'mischief' branch and then let's see if this appears in the 'master' branch
 
-Making update 3: samccann forces a conflict, cuz that's just the kind of writer she is.
+Update 3: samccann forces a conflict, cuz that's just the kind of writer she is.
