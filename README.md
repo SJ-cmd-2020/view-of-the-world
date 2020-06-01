@@ -34,3 +34,5 @@ Update 4: I want this to be a conflict merge.
 Update 5: Possible conflict.
 
 Update 6: Wowie!
+
+Update 7: Trying Git Desktop
